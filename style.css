@@ -1,0 +1,17 @@
+body { 
+    text-align: center; 
+    background-color: rgb(213, 203, 255); 
+    font-family: Arial, sans-serif;
+    margin: 10%;
+  }
+
+  li { 
+    list-style-type: none;
+    padding: 10px; 
+  }
+  #top { 
+    font-size: 150%;
+  }
+  #text {
+    font-size: 130%; 
+  }
